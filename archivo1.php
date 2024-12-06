@@ -1,3 +1,3 @@
 <?php 
-echo "pepe enjado";
+echo "pepe enojado";
 ?>
