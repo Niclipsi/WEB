@@ -1,7 +1,7 @@
 <?php
 echo "pepe";
 echo "juan";
-echo "jose";
-echo "pedro";
+echo "dalas";
+echo "javi";
 
 ?>
